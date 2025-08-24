@@ -20,7 +20,7 @@
 
 <br>
 
-✅ This application is a Spring Boot project that focuses on demonstrating the Hibernate N+1 Select Problem - a common performance issue in ORM-based applications. It illustrates how N+1 problems occur during lazy loading of entity relationships and provides practical solutions using fetch joins, DTO projections, and MapStruct for efficient data transfer.
+- ✅ This application is a Spring Boot project that focuses on demonstrating the Hibernate N+1 Select Problem - a common performance issue in ORM-based applications. It illustrates how N+1 problems occur during lazy loading of entity relationships and provides practical solutions using fetch joins, DTO projections, and MapStruct for efficient data transfer.
 
 <br>
 
